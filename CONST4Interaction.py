@@ -1,5 +1,4 @@
-SOURCE = 'testing/192.168.1.65_01_20230612171303110_1.mp4'
-# SOURCE = 'testing/Clase_30_05_2024.mp4'
+SOURCE = 'path_to_a_video_containing_interactions_in_a_classroom'
 INTERACTION_WEIGHTS =  'weights/Interaction.pt'
 PEOPLE =  'weights/yolov8s.pt'
 ENDPOINT = 'http://192.168.1.90:5000/enviardatos'
